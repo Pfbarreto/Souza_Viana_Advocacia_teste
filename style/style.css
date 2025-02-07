@@ -529,10 +529,11 @@ h3{
 
     .secao_formulario{
         height: auto;
+        overflow-x: hidden;
     }
     .div_formulario{
-        width: auto;
-        margin: auto;
+        width: 200px;
+        margin: 0 300px 0 50px;
         padding: 100px 100px;
         border-radius: 20px;
         
