@@ -544,20 +544,24 @@ h3{
         margin: auto;
         font-size: var(--tamanho-texto-aparelho-movel);
     }
+    .logo_formulario{
+        margin: 0 90px 0 0;
+
+    }
     .texto_formulario{
         border-radius: 5px;
         padding: 10px 20px;
-        margin: 10px 20px 0 -20px;
+        margin: 10px 20px 0 -50px;
     
     }
     .botao_formulario{
         padding: 10px 20px;
-        margin: 10px 20px 0 -20px;
+        margin: 10px 20px 0 -50px;
 
     }
     .voltar_pagina{
         padding: 10px 20px;
-        margin: 10px 20px 0 -20px;
+        margin: 10px 20px 0 -50px;
 
     }
     .bt_zap{
