@@ -547,7 +547,18 @@ h3{
     .texto_formulario{
         border-radius: 5px;
         padding: 10px 20px;
+        margin: 10px 20px 0 -20px;
     
+    }
+    .botao_formulario{
+        padding: 10px 20px;
+        margin: 10px 20px 0 -20px;
+
+    }
+    .voltar_pagina{
+        padding: 10px 20px;
+        margin: 10px 20px 0 -20px;
+
     }
     .bt_zap{
         font-size: var(--tamanho-letra-bt-aparelho-movel);
