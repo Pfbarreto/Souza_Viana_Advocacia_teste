@@ -545,7 +545,7 @@ h3{
         font-size: var(--tamanho-texto-aparelho-movel);
     }
     .logo_formulario{
-        margin: 0 90px 0 0;
+        margin: 0 120px 0 -20px;
 
     }
     .texto_formulario{
