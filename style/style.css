@@ -112,6 +112,11 @@ body{
     align-items: center;
     justify-content: center;
 }
+.bt_insta,.bt_whatapp{
+    padding: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+}
 .zap{
     margin: 10px;
     color: var(--cor-letra-normal);
